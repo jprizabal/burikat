@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gallery of Pictures</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-color: #f4f4f4;
+}
+.gallery {
+width: 70%;
+max-width: 700px;
+border: 1px solid #000;
+display: grid;
+grid-template-rows: auto 1fr;
+grid-template-columns: 1fr 2fr;
+gap: 2px;
+}
+.title {
+grid-column: 1 / -1;
+text-align: center;
+padding: 35px;
+border: 0.5px solid #000;
+}
+.pix1 {
+grid-row: 2 / span 51;
+border: 0.5px solid #000;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.pix2 {
+grid-row: 2 / span 50;
+border: 0.5px solid #000;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0px;
+padding: 0px;
+gap: 0px;
+}
+.pix3 {
+grid-row: 2 / span 50;
+border: 0.5px solid #000;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0;
+padding: 0;
+}
+.pix4 {
+grid-row: 2 / span 50;
+border: 0.5px solid #000;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0;
+padding: 0;
+}
+.pix5 {
+grid-row: span 50;
+border: 0.5px solid #000;
+display: block;
+justify-content: center;
+align-items: center;
+margin: 0;
+padding: 0;
+}
+.pix6 {
+grid-row: span 50;
+border: 0.5px solid #000;
+display: block;
+justify-content: center;
+align-items: center;
+margin: 0px;
+padding: 0px;
+gap: 0px;
+}
+.grid {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 0px;
+}
+</style>
+</head>
+<body>
+<div class="gallery">
+<div class="title">TITLE: GALLERY OF PICTURES</div>
+<div class="pix1"><a href="https://img.freepik.com/free-photo/white-flower-dark-background_1122-841.jpg" target="_blank">
+    <img src="https://img.freepik.com/free-photo/white-flower-dark-background_1122-841.jpg" height="500" width="250">
+</a>
+</div>
+<div class="pix2"><a href="https://hips.hearstapps.com/hmg-prod/images/bunch-of-roses-as-a-bed-royalty-free-image-964650398-1554826447.jpg?crop=0.66682xw:1xh;center,top&resize=980:*" target="_blank">
+    <img src="https://hips.hearstapps.com/hmg-prod/images/bunch-of-roses-as-a-bed-royalty-free-image-964650398-1554826447.jpg?crop=0.66682xw:1xh;center,top&resize=980:*" alt="Clickable Image" height="220.5"width="405">
+</a>
+</a></div>
+<div class="grid">
+<div class="pix3"><a href="https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg" target="_blank">
+    <img src="https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg" alt="Clickable Image" width="200">
+</a>
+</div>
+<div class="pix4"><a href="https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg" target="_blank">
+    <img src="https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg" alt="Clickable Image" width="200"><a/></div>
+<div class="pix5"><a href="https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg" target="_blank">
+    <img src="https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg" alt="Clickable Image" width="200"><a/></div>
+<div class="pix6"><a href="https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg" target="_blank">
+    <img src="https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg" alt="Clickable Image" width="200"><a/></div>
+</div>
+</div>
+</body>
+</html>
