@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>RIZABAL, JUSTINE PAUL O.</h1>
+<h2>Lecture 3: Text Fundamentals</h2>
+<h3>Short Stories</h3>
+<h4>Short Stories</h4>
+<h5>Short Stories</h5>
+<h6>Short Stories</h6>
+
+<p><sup>Once upon a time, there lived an old owl who was grumpy. He hated it when anything bothered him while he was sleeping in the morning. One sunny afternoon, while he was sleeping soundly in his hollow tree home, he was suddenly woken up by a sound. It was the happy chirping of a grasshopper. Even though the music was pretty, it annoyed the old owl.</sup>
+
+<br>He looked out of the hole in the tree and saw the grasshopper, whose tiny body was shaking as it sang loudly.<br>
+
+
+<br><strong>“Stop that!”</strong> the owl shouted, his voice rough. <strong>“Be polite and let an old owl rest!”</strong>
+
+<sub>The grasshopper stopped singing for a moment, then said, “I can sing wherever I want, and no one can stop me!”</sub>
+
+Then the grasshopper started chirping again, even louder than before.
+
+The owl knew it was useless to argue with the bug. It was daytime, and his eyes, which were very good at night, didn’t see well in the sunlight. He thought of a clever trick.
+
+<strong>“My dear cricket,”</strong> he said softly, <i><strong>“I think I’m fully awake now, and I really enjoyed your music. I will sit here and listen to you. I remember having some sweet juice stored in this nest. I think that after you taste this juice, your chirping will be better than any other grasshopper’s. Why don’t you come in and try it?”</strong></i>
+
+The grasshopper was very happy and could hardly believe the owl. The idea of being the best-singing grasshopper was too good to miss. With a few big jumps, he reached the owl’s nest.</p>
+
+<p>All the animals in the forest knew that the hare is the fastest among them. He could run through long roads without any hard effort.
+
+One day, the hare saw a tortoise who was laboriously making his way in the forest. The hare stopped and started mocking the poor tortoise:The tortoise was not offended by the hare’s words. Slowly, she continued to put one foot in front of the other. The two quickly agreed on the fox as the referee and met a day later by a brich tree. They decide to assign the starting point of the race to the tree. The fox announced.Then he hobbled straight to the big field and nibbled a few carrots with relish. When he returned, he saw that the tortoise is still close to the starting line. He was trying to walk with difficulty and make his way! All the birds and animals were cheering for the hare! Prompted by the applause of the audience, the hare performed several tricks and daredevil jumps.</p>
+
+<p>On a sunny and pleasant day, a city mouse decided to visit one of his relatives who lived in the village.
+
+The country mouse, who was very excited and happy to see the city mouse, brought out everything he had in his nest to entertain the city mouse! Wheat grains, grass stalks, roots, and delicious acorns! He also brought the city mouse some cool water to wash his hands and face!The city mouse didn’t eat much at all. He just tasted a little of the food! But he thought the food was very tasteless. So he frowned a little, but tried to be polite and not be rude. After dinner, the two mice chatted a lot. The city mouse talked enthusiastically about the attractions and benefits of the city, and the country mouse listened with excitement!
+</p>
+
+</body>
+</html>
+
+<body>
+<html>
+
+<p>_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</p>
+
+<p><i>This sentence is italic.</i></p>
+<p><em>This sentence is emphasized.</em></p>
+<p><cite>This sentence is considered a citation.</cite></p>
+<p><var>This sentence is considered a variable.</var></p>
+<p><dfn>This sentence is considered a definition</dfn></p>
+<p><mark><adress>Oh! A marked sentence.</adress></mark></p>
+<p><del><adress>This sentence is deleted.</adress></del></p>
+<p><sup>A superscript text.</sup></p>
+<p><sub>A subscript text.</sub></p>

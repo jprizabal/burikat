@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Zodiac Image Map</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <a name="top"></a>
+
+  <div class="overlay">
+    <h1>Western Zodiac Signs</h1>
+    <p class="instruction">Click on a constellation to discover your zodiac personality.</p>
+    <img src="IMAGES/imagemap.png" usemap="#zodiacmap" alt="Zodiac Constellations Map" width="1206" height="768">
+  </div>
+
+  <map name="zodiacmap">
+    <area shape="rect" coords="50,30,200,180" href="#gemini" alt="Gemini">
+    <area shape="rect" coords="250,40,400,180" href="#taurus" alt="Taurus">
+    <area shape="rect" coords="460,40,620,160" href="#aries" alt="Aries">
+    <area shape="rect" coords="660,40,830,180" href="#pisces" alt="Pisces">
+    <area shape="rect" coords="880,50,1130,180" href="#scorpius" alt="Scorpius">
+    <area shape="rect" coords="50,220,250,380" href="#sagittarius" alt="Sagittarius">
+    <area shape="rect" coords="260,240,430,410" href="#virgo" alt="Virgo">
+    <area shape="rect" coords="470,260,640,430" href="#leo" alt="Leo">
+    <area shape="rect" coords="700,240,870,410" href="#aquarius" alt="Aquarius">
+    <area shape="rect" coords="900,240,1070,410" href="#capricornus" alt="Capricornus">
+    <area shape="rect" coords="460,460,620,600" href="#libra" alt="Libra">
+    <area shape="rect" coords="630,460,760,600" href="#cancer" alt="Cancer">
+  </map>
+
+  <section id="gemini" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://pngimg.com/d/gemini_PNG38.png" alt="Gemini Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♊</span> Gemini</h2>
+          <p>The Twins – Curious, expressive, and full of energy. Geminis are quick thinkers who enjoy engaging in conversation and exploring new ideas. They often have a playful side and love trying new experiences that stimulate their minds. Adaptable and versatile, Geminis can easily shift between different interests and social circles.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="taurus" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://pngimg.com/d/taurus_PNG51.png" alt="Taurus Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♉</span> Taurus</h2>
+          <p>The Bull – Grounded, strong, and dependable. Taureans are practical and enjoy the comforts of life, seeking stability and security in all they do. With a deep appreciation for beauty and art, they often find joy in nature, music, and good food. Once they commit to something, they stick to it with unwavering persistence.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="aries" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://cdn-icons-png.freepik.com/512/47/47042.png" alt="Aries Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♈</span> Aries</h2>
+          <p>The Ram – Bold, ambitious, and always ready for action. Aries people are natural leaders, driven by a desire to take on challenges and conquer new heights. They thrive in competitive environments and enjoy being the first to try new things. Their fiery spirit and passion often inspire those around them to take bold steps forward.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="pisces" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://cdn.shopify.com/s/files/1/0519/7573/files/Zodiac_Symbols_Purple-12.png?v=1490218830" alt="Pisces Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♓</span> Pisces</h2>
+          <p>The Fish – Intuitive, artistic, and deeply empathetic. Pisceans have a natural connection to the emotional world, offering compassion and creativity to those around them. They often express themselves through art, music, or writing, and their imagination knows no bounds. Though they may seem dreamy, their insights are often profound and spiritually uplifting.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="scorpius" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://cdn-icons-png.freepik.com/512/47/47250.png" alt="Scorpius Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♏</span> Scorpius</h2>
+          <p>The Scorpion – Intense, focused, and full of mystery. Scorpios possess a powerful presence and are known for their determination and loyalty. Beneath their calm surface lies a depth of emotion and passion that fuels their strong will. They are great at uncovering truths and are drawn to deep, meaningful connections.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="sagittarius" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://www.pngplay.com/wp-content/uploads/12/Sagittarius-Transparent-Free-PNG-Clip-Art.png" alt="Sagittarius Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♐</span> Sagittarius</h2>
+          <p>The Archer – Adventurous, free-spirited, and always seeking knowledge. Sagittarians love to explore new horizons and embrace life with optimism and a sense of humor. They are philosophical and enjoy deep conversations about the world and its wonders. With their love of freedom, they often resist routine and prefer to follow their own path.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="virgo" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://cdn-icons-png.flaticon.com/512/47/47038.png" alt="Virgo Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♍</span> Virgo</h2>
+          <p>The Maiden – Practical, loyal, and a perfectionist at heart. Virgos value structure and order, always striving to make things better and help those they care about. They have a keen eye for detail and often excel at solving problems with logic and precision. Their nurturing nature also makes them dependable friends and advisors.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="leo" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://cdn.shopify.com/s/files/1/0519/7573/files/Zodiac_Symbols_Purple-05.png?v=1490211256" alt="Leo Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♌</span> Leo</h2>
+          <p>The Lion – Confident, creative, and charismatic. Leos are natural-born leaders, full of energy and enthusiasm, inspiring others with their strength and vision. They enjoy being in the spotlight and often shine in artistic or performance-based pursuits. Deep down, Leos have big hearts and a strong desire to protect and uplift their loved ones.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="aquarius" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://www.pngplay.com/wp-content/uploads/6/Aquarius-Sign-Transparent-PNG.png" alt="Aquarius Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♒</span> Aquarius</h2>
+          <p>The Water Bearer – Innovative, independent, and a true humanitarian. Aquarians are forward-thinking and often ahead of their time, always looking for ways to improve the world. They value individuality and are not afraid to stand out or challenge the status quo. Idealistic and visionary, they are drawn to causes that promote social progress.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="capricornus" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://www.pngplay.com/wp-content/uploads/7/Capricorn-Icon-Transparent-File.png" alt="Capricornus Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♑</span> Capricornus</h2>
+          <p>The Goat – Disciplined, ambitious, and determined. Capricorns are driven by their goals, working hard to achieve success and bring their long-term plans to fruition. They have a strong sense of responsibility and are often seen as dependable and wise beyond their years. Though they may seem reserved, they are deeply loyal and caring toward those they trust.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="libra" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://www.pngplay.com/wp-content/uploads/2/Libra-Background-PNG.png" alt="Libra Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♎</span> Libra</h2>
+          <p>The Scales – Balanced, diplomatic, and a lover of harmony. Libras seek fairness in all areas of life and strive to create peace and understanding among others. They have a strong aesthetic sense and are often drawn to art, beauty, and social grace. Relationships are central to their happiness, and they excel at building bridges between people.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+  <section id="cancer" class="zodiac-section">
+    <div class="section-container">
+      <div class="zodiac-container">
+        <img src="https://cdn-icons-png.flaticon.com/512/47/47321.png" alt="Cancer Constellation" class="zodiac-image">
+        <div class="zodiac-info">
+          <h2><span class="zodiac-symbol">♋</span> Cancer</h2>
+          <p>The Crab – Sensitive, nurturing, and emotionally intelligent. Cancers are deeply protective of their loved ones and create warm, supportive environments wherever they go. They have a strong memory and are often sentimental, cherishing past experiences and bonds. Though they can be shy, their loyalty and empathy make them incredible companions and caregivers.</p>
+        </div>
+      </div>
+      <a href="#top" class="back-to-top">↑ Back to Top</a>
+    </div>
+  </section>
+
+</body>
+</html>

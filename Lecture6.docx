@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rizabal, Justine - Portfolio</title>
+<style>
+body {
+font-family: 'Poppins', sans-serif;
+margin: 0;
+padding: 0;
+background-color: white;
+color: #333;
+text-align: center;
+}
+.container {
+max-width: 900px;
+margin: 40px auto;
+padding: 20px;
+background: rgba(255, 255, 255, 0.9);
+border-radius: 10px;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+h1 {
+font-size: 2.5em;
+color: #e53935;
+}
+h2 {
+border-bottom: 2px solid #e53935;
+padding-bottom: 5px;
+display: inline-block;
+color: #e53935;
+}
+ul {
+list-style: none;
+padding: 0;
+}
+ul li {
+background: #e53935;
+color: white;
+margin: 10px auto;
+padding: 15px;
+border-radius: 8px;
+font-weight: bold;
+}
+.contact a {
+color: #e53935;
+font-weight: bold;
+text-decoration: none;
+}
+.contact a:hover {
+text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Rizabal, Justine Paul O.</h1>
+<p>An IT student who's exploring coding, technology, and many more!</p>
+<hr>
+
+<div>
+<h2>Education</h2>
+<p>Studying Bachelor of Science in Information Technology at University of the East.</p>
+</div>
+
+<div>
+<h2>Interests</h2>
+<ul>
+<li>Coding & Anime</li>
+<li>Gaming (MOBA, RPGs)</li>
+<li>Badminton & Arnis</li>
+</ul>
+</div>
+
+<div>
+<h2>Skills</h2>
+<ul>
+<li>Programming: Python, MySQL, C#</li>
+<li>Problem-Solving & Teamwork</li>
+</ul>
+</div>
+
+<div>
+  <h2>Favorite Songs</h2>
+  <ul>
+    <li>Song 1: 
+      <audio controls>
+        <source src="https://rr2---sn-npoeeney.googlevideo.com/videoplayback?expire=1745522725&ei=xTsKaO2TCtuI1d8PkeaIoQ4&ip=2a09%3Abac5%3A42f3%3A1e14%3A%3A2ff%3A70&id=o-AIrUsSA6-vG9gMl7uZbpxk0NZjOVduzY2_6Q6NJESU4V&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcPGjCH6p_9LWqeA_XIGCutPB_mbmo9epJImlFvYgSz0L3Udxmg9-HqdIWRvHleaj2p7JXpdWWkn&vprv=1&svpuc=1&mime=audio%2Fmp4&ns=FrLsXAOSAbPH-8B3W6mIcZYQ&rqh=1&gir=yes&clen=4388190&dur=271.092&lmt=1740002277719292&keepalive=yes&lmw=1&c=TVHTML5&sefc=1&txp=5432534&n=R4T_MAON_qoIvA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgfWNH-Cmgm1pdba4TAUQAauSlwN8u-32UcSjszKzZXIECIQDzXKxVQfHCS4Po2DeHuSAeQ-CjWRb-ARQk7uFApKnQAw%3D%3D&title=Radiohead+-+Let+Down+%2B+Choir+%28Complete%29&cm2rm=sn-3pmzk7e&rrc=80,104&fexp=24350590,24350737,24350827,24350961,24351173,24351431,24351495,24351528,24351542,24351545,24351638,24351643,24351658,24351662,24351673,24351703,24351766&req_id=d4af1337a727a3ee&rms=ltu,au&redirect_counter=2&rm=sn-npoze7l&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1745501173,&mh=BD&mip=112.209.188.151&mm=34&mn=sn-npoeeney&ms=ltu&mt=1745500846&mv=m&mvi=2&pl=20&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRQIgJyO41-pHkSMLkpmVKTKGB_dcTo0rT0PdpumGaWajIkICIQD5PN1xQxs14GN7lslKAfEkSuhjR9FaJi3eQPnzP1dPPg%3D%3D" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </li>
+    <li>Song 2: 
+      <audio controls>
+        <source src="https://rr2---sn-npoeeney.googlevideo.com/videoplayback?expire=1745522725&ei=xTsKaO2TCtuI1d8PkeaIoQ4&ip=2a09%3Abac5%3A42f3%3A1e14%3A%3A2ff%3A70&id=o-AIrUsSA6-vG9gMl7uZbpxk0NZjOVduzY2_6Q6NJESU4V&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcPGjCH6p_9LWqeA_XIGCutPB_mbmo9epJImlFvYgSz0L3Udxmg9-HqdIWRvHleaj2p7JXpdWWkn&vprv=1&svpuc=1&mime=audio%2Fmp4&ns=FrLsXAOSAbPH-8B3W6mIcZYQ&rqh=1&gir=yes&clen=4388190&dur=271.092&lmt=1740002277719292&keepalive=yes&lmw=1&c=TVHTML5&sefc=1&txp=5432534&n=R4T_MAON_qoIvA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgfWNH-Cmgm1pdba4TAUQAauSlwN8u-32UcSjszKzZXIECIQDzXKxVQfHCS4Po2DeHuSAeQ-CjWRb-ARQk7uFApKnQAw%3D%3D&title=Radiohead+-+Let+Down+%2B+Choir+%28Complete%29&cm2rm=sn-3pmzk7e&rrc=80,104&fexp=24350590,24350737,24350827,24350961,24351173,24351431,24351495,24351528,24351542,24351545,24351638,24351643,24351658,24351662,24351673,24351703,24351766&req_id=d4af1337a727a3ee&rms=ltu,au&redirect_counter=2&rm=sn-npoze7l&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1745501173,&mh=BD&mip=112.209.188.151&mm=34&mn=sn-npoeeney&ms=ltu&mt=1745500846&mv=m&mvi=2&pl=20&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRQIgJyO41-pHkSMLkpmVKTKGB_dcTo0rT0PdpumGaWajIkICIQD5PN1xQxs14GN7lslKAfEkSuhjR9FaJi3eQPnzP1dPPg%3D%3D" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </li>
+    <li>Song 3: 
+      <audio controls>
+        <source src="https://rr2---sn-npoeeney.googlevideo.com/videoplayback?expire=1745522725&ei=xTsKaO2TCtuI1d8PkeaIoQ4&ip=2a09%3Abac5%3A42f3%3A1e14%3A%3A2ff%3A70&id=o-AIrUsSA6-vG9gMl7uZbpxk0NZjOVduzY2_6Q6NJESU4V&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcPGjCH6p_9LWqeA_XIGCutPB_mbmo9epJImlFvYgSz0L3Udxmg9-HqdIWRvHleaj2p7JXpdWWkn&vprv=1&svpuc=1&mime=audio%2Fmp4&ns=FrLsXAOSAbPH-8B3W6mIcZYQ&rqh=1&gir=yes&clen=4388190&dur=271.092&lmt=1740002277719292&keepalive=yes&lmw=1&c=TVHTML5&sefc=1&txp=5432534&n=R4T_MAON_qoIvA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgfWNH-Cmgm1pdba4TAUQAauSlwN8u-32UcSjszKzZXIECIQDzXKxVQfHCS4Po2DeHuSAeQ-CjWRb-ARQk7uFApKnQAw%3D%3D&title=Radiohead+-+Let+Down+%2B+Choir+%28Complete%29&cm2rm=sn-3pmzk7e&rrc=80,104&fexp=24350590,24350737,24350827,24350961,24351173,24351431,24351495,24351528,24351542,24351545,24351638,24351643,24351658,24351662,24351673,24351703,24351766&req_id=d4af1337a727a3ee&rms=ltu,au&redirect_counter=2&rm=sn-npoze7l&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1745501173,&mh=BD&mip=112.209.188.151&mm=34&mn=sn-npoeeney&ms=ltu&mt=1745500846&mv=m&mvi=2&pl=20&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRQIgJyO41-pHkSMLkpmVKTKGB_dcTo0rT0PdpumGaWajIkICIQD5PN1xQxs14GN7lslKAfEkSuhjR9FaJi3eQPnzP1dPPg%3D%3D" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </li>
+    <li>Song 4: 
+      <audio controls>
+        <source src="https://rr2---sn-npoeeney.googlevideo.com/videoplayback?expire=1745522725&ei=xTsKaO2TCtuI1d8PkeaIoQ4&ip=2a09%3Abac5%3A42f3%3A1e14%3A%3A2ff%3A70&id=o-AIrUsSA6-vG9gMl7uZbpxk0NZjOVduzY2_6Q6NJESU4V&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcPGjCH6p_9LWqeA_XIGCutPB_mbmo9epJImlFvYgSz0L3Udxmg9-HqdIWRvHleaj2p7JXpdWWkn&vprv=1&svpuc=1&mime=audio%2Fmp4&ns=FrLsXAOSAbPH-8B3W6mIcZYQ&rqh=1&gir=yes&clen=4388190&dur=271.092&lmt=1740002277719292&keepalive=yes&lmw=1&c=TVHTML5&sefc=1&txp=5432534&n=R4T_MAON_qoIvA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgfWNH-Cmgm1pdba4TAUQAauSlwN8u-32UcSjszKzZXIECIQDzXKxVQfHCS4Po2DeHuSAeQ-CjWRb-ARQk7uFApKnQAw%3D%3D&title=Radiohead+-+Let+Down+%2B+Choir+%28Complete%29&cm2rm=sn-3pmzk7e&rrc=80,104&fexp=24350590,24350737,24350827,24350961,24351173,24351431,24351495,24351528,24351542,24351545,24351638,24351643,24351658,24351662,24351673,24351703,24351766&req_id=d4af1337a727a3ee&rms=ltu,au&redirect_counter=2&rm=sn-npoze7l&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1745501173,&mh=BD&mip=112.209.188.151&mm=34&mn=sn-npoeeney&ms=ltu&mt=1745500846&mv=m&mvi=2&pl=20&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRQIgJyO41-pHkSMLkpmVKTKGB_dcTo0rT0PdpumGaWajIkICIQD5PN1xQxs14GN7lslKAfEkSuhjR9FaJi3eQPnzP1dPPg%3D%3D" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </li>
+    <li>Song 5: 
+      <audio controls>
+        <source src="https://rr2---sn-npoeeney.googlevideo.com/videoplayback?expire=1745522725&ei=xTsKaO2TCtuI1d8PkeaIoQ4&ip=2a09%3Abac5%3A42f3%3A1e14%3A%3A2ff%3A70&id=o-AIrUsSA6-vG9gMl7uZbpxk0NZjOVduzY2_6Q6NJESU4V&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AccgBcPGjCH6p_9LWqeA_XIGCutPB_mbmo9epJImlFvYgSz0L3Udxmg9-HqdIWRvHleaj2p7JXpdWWkn&vprv=1&svpuc=1&mime=audio%2Fmp4&ns=FrLsXAOSAbPH-8B3W6mIcZYQ&rqh=1&gir=yes&clen=4388190&dur=271.092&lmt=1740002277719292&keepalive=yes&lmw=1&c=TVHTML5&sefc=1&txp=5432534&n=R4T_MAON_qoIvA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgfWNH-Cmgm1pdba4TAUQAauSlwN8u-32UcSjszKzZXIECIQDzXKxVQfHCS4Po2DeHuSAeQ-CjWRb-ARQk7uFApKnQAw%3D%3D&title=Radiohead+-+Let+Down+%2B+Choir+%28Complete%29&cm2rm=sn-3pmzk7e&rrc=80,104&fexp=24350590,24350737,24350827,24350961,24351173,24351431,24351495,24351528,24351542,24351545,24351638,24351643,24351658,24351662,24351673,24351703,24351766&req_id=d4af1337a727a3ee&rms=ltu,au&redirect_counter=2&rm=sn-npoze7l&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1745501173,&mh=BD&mip=112.209.188.151&mm=34&mn=sn-npoeeney&ms=ltu&mt=1745500846&mv=m&mvi=2&pl=20&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRQIgJyO41-pHkSMLkpmVKTKGB_dcTo0rT0PdpumGaWajIkICIQD5PN1xQxs14GN7lslKAfEkSuhjR9FaJi3eQPnzP1dPPg%3D%3D" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </li>
+  </ul>
+</div>
+
+
+<div>
+<h2>Favorite Movies</h2>
+<ul>
+<li>Movie 1: <iframe width="800" height="480" 
+        src="https://www.youtube.com/embed/gNPy_CO4zqA?autoplay=0" 
+        title="YouTube audio" 
+        frameborder="5" 
+        allow="autoplay; encrypted-media" 
+        allowfullscreen>
+</iframe>
+
+<li>Movie 2: <iframe width="800" height="480" 
+        src="https://www.youtube.com/embed/gNPy_CO4zqA?autoplay=0" 
+        title="YouTube audio" 
+        frameborder="5" 
+        allow="autoplay; encrypted-media" 
+        allowfullscreen>
+</iframe>
+<li>Movie 3: <iframe width="800" height="480" 
+        src="https://www.youtube.com/embed/gNPy_CO4zqA?autoplay=0" 
+        title="YouTube audio" 
+        frameborder="5" 
+        allow="autoplay; encrypted-media" 
+        allowfullscreen>
+</iframe>
+<li>Movie 4: <iframe width="800" height="480" 
+        src="https://www.youtube.com/embed/gNPy_CO4zqA?autoplay=0" 
+        title="YouTube audio" 
+        frameborder="5" 
+        allow="autoplay; encrypted-media" 
+        allowfullscreen>
+</iframe>
+</video></li>
+<li>Movie 5: <iframe width="800" height="480" 
+        src="https://www.youtube.com/embed/gNPy_CO4zqA?autoplay=0" 
+        title="YouTube audio" 
+        frameborder="5" 
+        allow="autoplay; encrypted-media" 
+        allowfullscreen>
+</iframe>
+</ul>
+</div>
+
+<div class="contact">
+<h2>Contact</h2>
+<p>Email: <a href="mailto:your-email@example.com">jprizabal@gmail.com</a></p>
+</div>
+</div>
+
+<footer>
+<p>&copy; 2025 Rizabal, Justine Paul O. All rights reserved.</p>
+</footer>
+</body>
+</html>

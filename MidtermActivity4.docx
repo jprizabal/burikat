@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Personal Data Sheet</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-800 p-10 font-sans">
+  <div class="max-w-5xl mx-auto border border-gray-300 rounded-xl p-8 shadow-xl">
+    <div class="flex justify-between items-center mb-6">
+      <div class="w-20 h-20 border border-gray-400 rounded-full flex items-center justify-center font-semibold text-xs">LOGO</div>
+      <div class="text-center flex-1">
+        <h1 class="text-2xl font-bold uppercase">Sample University</h1>
+        <p class="text-sm tracking-wide uppercase">Enrollment System</p>
+        <h2 class="text-lg font-semibold mt-2">Personal Data Sheet</h2>
+        <p class="text-sm italic">(Graduate School, Law, Medicine)</p>
+      </div>
+      <div class="text-sm space-y-1 text-right">
+        <p><strong>Program:</strong> _____________</p>
+        <p><strong>Student #:</strong> _____________</p>
+      </div>
+    </div>
+
+    <form class="text-sm space-y-6">
+      <div class="grid grid-cols-4 gap-4">
+        <div><label class="block font-medium">Surname</label><input type="text" class="input"></div>
+        <div><label class="block font-medium">Given Name</label><input type="text" class="input"></div>
+        <div><label class="block font-medium">Middle Name</label><input type="text" class="input"></div>
+        <div><label class="block font-medium">Auxiliary Name</label><input type="text" class="input" placeholder="(Jr., II, III, etc.)"></div>
+      </div>
+
+      <hr class="my-4" />
+
+      <h3 class="text-md font-semibold text-gray-700">Student Details</h3>
+
+      <div class="grid grid-cols-3 gap-4">
+        <div><label class="block font-medium">City Address</label><input type="text" class="input"></div>
+        <div><label class="block font-medium">Zip Code</label><input type="text" class="input"></div>
+        <div><label class="block font-medium">Tel. No.</label><input type="text" class="input"></div>
+      </div>
+      <div><label class="block font-medium">E-mail Address</label><input type="email" class="input w-full"></div>
+      <div class="grid grid-cols-3 gap-4">
+        <div><label class="block font-medium">Home Address</label><input type="text" class="input"></div>
+        <div><label class="block font-medium">Zip Code</label><input type="text" class="input"></div>
+        <div><label class="block font-medium">Region</label><input type="text" class="input"></div>
+      </div>
+      <div class="grid grid-cols-4 gap-4">
+        <div><label class="block font-medium">Birthday</label><input type="date" class="input"></div>
+        <div><label class="block font-medium">Age</label><input type="number" class="input"></div>
+        <div><label class="block font-medium">Birthplace</label><input type="text" class="input"></div>
+        <div><label class="block font-medium">Religion</label><input type="text" class="input"></div>
+      </div>
+      <div class="grid grid-cols-2 gap-4">
+        <div><label class="block font-medium">Citizenship</label><input type="text" class="input"></div>
+        <div><label class="block font-medium">Sex</label><input type="text" class="input"></div>
+      </div>
+      <div><label class="block font-medium">If Alien, ACR # (see Registrar):</label><input type="text" class="input w-full"></div>
+
+      <div class="grid grid-cols-2 gap-6">
+        <div>
+          <p class="font-semibold mb-2">Legal Status</p>
+          <div class="space-y-1 text-gray-700">
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Citizen of RP</label>
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Permanent Resident</label>
+            <label class="flex items-start"><input type="checkbox" class="mr-2 mt-1">Permission to study on visa</label>
+            <label class="flex items-start"><input type="checkbox" class="mr-2 mt-1">Child/spouse of worker on visa</label>
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Other visa</label>
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Status unknown</label>
+          </div>
+        </div>
+        <div>
+          <p class="font-semibold mb-2">Civil Status</p>
+          <div class="space-y-1 text-gray-700">
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Single</label>
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Married</label>
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Divorced</label>
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Widowed</label>
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Separated</label>
+          </div>
+          <div class="mt-3">
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Working</label>
+            <label class="flex items-center"><input type="checkbox" class="mr-2">Not working</label>
+            <label class="block font-medium mt-1">If working, Office/Bus. Tel. #:</label>
+            <input type="text" class="input w-full">
+          </div>
+        </div>
+      </div>
+
+      <hr class="my-6" />
+
+      <div class="grid grid-cols-2 gap-6">
+        <div>
+          <h3 class="text-md font-semibold text-gray-700">Father's Information</h3>
+          <div class="grid grid-cols-2 gap-2 mt-2">
+            <input type="text" placeholder="Surname" class="input">
+            <input type="text" placeholder="First Name" class="input">
+            <input type="text" placeholder="Middle Name" class="input">
+            <input type="text" placeholder="Auxiliary Name" class="input">
+          </div>
+          <input type="text" placeholder="Occupation/Employment" class="input w-full mt-2">
+          <input type="text" placeholder="Educational Attainment" class="input w-full mt-2">
+          <input type="text" placeholder="Parent's Address" class="input w-full mt-2">
+          <input type="text" placeholder="Zip Code" class="input w-full mt-2">
+        </div>
+
+        <div>
+          <h3 class="text-md font-semibold text-gray-700">Mother's Information</h3>
+          <div class="grid grid-cols-2 gap-2 mt-2">
+            <input type="text" placeholder="Surname" class="input">
+            <input type="text" placeholder="First Name" class="input">
+            <input type="text" placeholder="Middle Name" class="input">
+            <input type="text" placeholder="Auxiliary Name" class="input">
+          </div>
+          <input type="text" placeholder="Occupation/Employment" class="input w-full mt-2">
+          <input type="text" placeholder="Educational Attainment" class="input w-full mt-2">
+          <input type="text" placeholder="Parent's Tel. #" class="input w-full mt-2">
+        </div>
+      </div>
+
+      <hr class="my-6" />
+
+      <h3 class="text-md font-semibold text-gray-700">Guardian's Information (If Applicable)</h3>
+      <div class="grid grid-cols-4 gap-4">
+        <input type="text" placeholder="Surname" class="input">
+        <input type="text" placeholder="First Name" class="input">
+        <input type="text" placeholder="Middle Name" class="input">
+        <input type="text" placeholder="Auxiliary Name" class="input">
+      </div>
+      <input type="text" placeholder="Occupation/Employment" class="input w-full mt-2">
+      <input type="text" placeholder="Office/Bus. Tel. #" class="input w-full mt-2">
+      <input type="text" placeholder="Guardian's Address" class="input w-full mt-2">
+      <div class="grid grid-cols-2 gap-4 mt-2">
+        <input type="text" placeholder="Zip Code" class="input">
+        <input type="text" placeholder="Tel. #" class="input">
+      </div>
+    </form>
+  </div>
+
+  <style>
+  .input {
+    border: 1px solid #ccc;
+    background-color: #f9fafb;
+    padding: 0.5rem 0.75rem;
+    width: 100%;
+    border-radius: 0.375rem;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    outline: none;
+  }
+
+  .input:focus {
+    border-color: #3b82f6; /* Tailwind's blue-500 */
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+  }
+</style>
+
+</body>
+</html>
